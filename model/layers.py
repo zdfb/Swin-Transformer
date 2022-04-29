@@ -6,8 +6,6 @@ import torch.nn.functional as F
 from model.utils import window_partition, window_reverse,  DropPath
 
 
-
-
 # patchembedding层
 class PatchEmbed(nn.Module):
     def __init__(self, patch_size = 4, in_c = 3, embed_dim = 96, norm_layer = None):
