@@ -7,6 +7,7 @@ Pytorch实现的Swin Transformer主干网络，添加了部分中文注释。
 >- 提取码：tc7u
 
 ## Reference
-https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master/pytorch_classification/swin_transformer
-https://github.com/microsoft/Swin-Transformer
+>- https://github.com/microsoft/Swin-Transformer
+>- https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master/pytorch_classification/swin_transformer
+
 
