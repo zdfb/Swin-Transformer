@@ -1,5 +1,5 @@
-# Vision Transformer(ViT)   
-Pytorch实现的Swin Transformer主干网络。
+# Swin Transformer 
+Pytorch实现的Swin Transformer主干网络，添加了部分中文注释。
 
 ## 预训练模型
 + swin_small_patch4_window7_224模型pth格式的预训练权重如下。<br>
